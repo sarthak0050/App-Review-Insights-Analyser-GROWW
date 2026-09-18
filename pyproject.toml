@@ -1,0 +1,12 @@
+[project]
+name = "groww-weekly-pulse"
+version = "0.1.0"
+description = "GROWW Weekly Review Pulse - FastAPI app for Vercel (static dashboard + note/email endpoints)"
+requires-python = ">=3.9"
+dependencies = [
+  "fastapi",
+  "uvicorn",
+]
+
+[tool.vercel]
+entrypoint = "app:app"

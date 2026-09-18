@@ -1,0 +1,5 @@
+# Vercel deploy excludes (canonical python lives in api/_lib for both serverless
+# functions and the local pipeline; scripts/ holds only the local runner shims).
+scripts/
+output/
+__pycache__/

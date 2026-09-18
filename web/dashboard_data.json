@@ -1,0 +1,7260 @@
+{
+  "app": "GROWW",
+  "generated_at": "2026-09-18T23:46:36",
+  "source_count": 887,
+  "source_breakdown": {
+    "App Store": 487,
+    "Play Store": 400
+  },
+  "date_range": {
+    "min": "2026-08-31",
+    "max": "2026-09-17"
+  },
+  "avg_rating": 4.55,
+  "unclassified": 735,
+  "coverage": {
+    "total": 887,
+    "classified": 152,
+    "unclassified": 735
+  },
+  "legend": [
+    "App Stability",
+    "Order Execution",
+    "Withdrawals & Funds",
+    "Customer Support",
+    "Account & Security"
+  ],
+  "themes": [
+    {
+      "theme": "Order Execution",
+      "count": 44,
+      "avg_rating": 3.73,
+      "priority_score": 100.0,
+      "rank": 1,
+      "top_quote": "I have the proof my trigger price was 195.40 but market didnt go down it went up but my sl order triggered at 192 and gave me loss",
+      "top_quote_rating": 1
+    },
+    {
+      "theme": "Withdrawals & Funds",
+      "count": 39,
+      "avg_rating": 3.64,
+      "priority_score": 92.0,
+      "rank": 2,
+      "top_quote": "This app is very slow in withdrawal and also many charges are applied",
+      "top_quote_rating": 1
+    },
+    {
+      "theme": "Customer Support",
+      "count": 42,
+      "avg_rating": 3.83,
+      "priority_score": 91.0,
+      "rank": 3,
+      "top_quote": "This company has the most pathetic customer service where you have to wait for minimum 2 days to get a reply and post waiting also the agents reply’s comes",
+      "top_quote_rating": 1
+    },
+    {
+      "theme": "App Stability",
+      "count": 16,
+      "avg_rating": 2.81,
+      "priority_score": 51.0,
+      "rank": 4,
+      "top_quote": "My iPad 10th generation doesn’t work on full screen support. Why ? Please fix it .",
+      "top_quote_rating": 1
+    },
+    {
+      "theme": "Account & Security",
+      "count": 11,
+      "avg_rating": 4.45,
+      "priority_score": 17.0,
+      "rank": 5,
+      "top_quote": "Its not working in iphone 17. Unable to login through any mail",
+      "top_quote_rating": 1
+    }
+  ],
+  "top3": [
+    {
+      "theme": "Order Execution",
+      "count": 44,
+      "avg_rating": 3.73,
+      "priority_score": 100.0,
+      "rank": 1,
+      "top_quote": "I have the proof my trigger price was 195.40 but market didnt go down it went up but my sl order triggered at 192 and gave me loss",
+      "top_quote_rating": 1
+    },
+    {
+      "theme": "Withdrawals & Funds",
+      "count": 39,
+      "avg_rating": 3.64,
+      "priority_score": 92.0,
+      "rank": 2,
+      "top_quote": "This app is very slow in withdrawal and also many charges are applied",
+      "top_quote_rating": 1
+    },
+    {
+      "theme": "Customer Support",
+      "count": 42,
+      "avg_rating": 3.83,
+      "priority_score": 91.0,
+      "rank": 3,
+      "top_quote": "This company has the most pathetic customer service where you have to wait for minimum 2 days to get a reply and post waiting also the agents reply’s comes",
+      "top_quote_rating": 1
+    }
+  ],
+  "note": {
+    "text": "WEEKLY REVIEW PULSE - GROWW\nThis week's reviews reveal shared user frustration across critical financial transactions, as technical failures in order execution and delayed fund withdrawals are compounded by unresponsive customer support channels.\n1. Order Execution (44 reviews, ~3.73/5): \"I have the proof my trigger price was 195.40 but market didnt go down it went up but my sl order triggered at 192 and gave me loss\" - Users report unexpected stop-loss triggers causing losses despite favorable market movements, indicating potential slippage or pricing accuracy issues. Action: Investigate stop-loss execution logs to verify pricing accuracy and reduce slippage.\n2. Withdrawals & Funds (39 reviews, ~3.64/5): \"This app is very slow in withdrawal and also many charges are applied\" - Traders experience frustrating delays during withdrawals alongside unexpected fee deductions, eroding trust in platform fund management. Action: Streamline withdrawal processing times and publish a transparent, upfront fee schedule.\n3. Customer Support (42 reviews, ~3.83/5): \"This company has the most pathetic customer service where you have to wait for minimum 2 days to get a reply and post waiting also the agents reply’s comes\" - Support response times exceeding two days leave clients stranded during critical trading moments with inadequate assistance. Action: Implement a priority ticketing system to resolve urgent trade issues within hours.\nSignal basis: themes drawn from 152 of 887 reviews; 735 no-signal reviews (largely one-line praise) sit outside the legend.",
+    "word_count": 231,
+    "truncated": false,
+    "is_preview": false,
+    "used_api_key": true,
+    "themes": [
+      {
+        "theme": "Order Execution",
+        "count": 44,
+        "avg_rating": 3.73,
+        "priority_score": 100.0,
+        "rank": 1,
+        "top_quote": "I have the proof my trigger price was 195.40 but market didnt go down it went up but my sl order triggered at 192 and gave me loss",
+        "top_quote_rating": 1
+      },
+      {
+        "theme": "Withdrawals & Funds",
+        "count": 39,
+        "avg_rating": 3.64,
+        "priority_score": 92.0,
+        "rank": 2,
+        "top_quote": "This app is very slow in withdrawal and also many charges are applied",
+        "top_quote_rating": 1
+      },
+      {
+        "theme": "Customer Support",
+        "count": 42,
+        "avg_rating": 3.83,
+        "priority_score": 91.0,
+        "rank": 3,
+        "top_quote": "This company has the most pathetic customer service where you have to wait for minimum 2 days to get a reply and post waiting also the agents reply’s comes",
+        "top_quote_rating": 1
+      }
+    ],
+    "coverage": {
+      "total": 887,
+      "classified": 152,
+      "unclassified": 735
+    }
+  },
+  "actions": [
+    "Prioritise investigation into Order Execution this week.",
+    "Prioritise investigation into Withdrawals & Funds this week.",
+    "Prioritise investigation into Customer Support this week."
+  ],
+  "reviews": [
+    {
+      "date": "2026-09-17",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Easy and simple",
+      "text": "Easy to access all options and everything in a one plant-form interesting. overall it a simple steps to get in and understand market.",
+      "theme": "Account & Security"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "App Store",
+      "rating": 1,
+      "title": "Patient Customer Service",
+      "text": "This company has the most pathetic customer service where you have to wait for minimum 2 days to get a reply and post waiting also the agents reply’s comes with attitude. As if they are doing a charity by replying to our queries. If the company can’t provide customer service then they should doing business whose primary work is customer service.",
+      "theme": "Customer Support"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "++++",
+      "text": "Best app ever for trading",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "App Store",
+      "rating": 1,
+      "title": "Grow is cheating i have evidence their system is not good triggering false prices and making to loss",
+      "text": "I have the proof my trigger price was 195.40 but market didnt go down it went up but my sl order triggered at 192 and gave me loss",
+      "theme": "Order Execution"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "App Store",
+      "rating": 1,
+      "title": "plz Add Remove option in Targeted price.",
+      "text": "I Put Target price in Nifty and other Options. & After Some Time it’s trigger. And Then i try to remove my Traget price then i see thare is No Option to remove target price. So plz Add this Futures.",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Suggestion for become best Investing App",
+      "text": "Great evolution ,If PEG ,Intrinsic value ,Future growth rate provided .Grow will become the best app",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Very Good Application",
+      "text": "Good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Best and easiest",
+      "text": "One of the best app ..loved it",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good",
+      "text": "Good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-15",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "User friendly experience",
+      "text": "Easy to use and monitor the current progress.",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-15",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Nice",
+      "text": "Good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-14",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Easy to use",
+      "text": "Good for new comers",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-14",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good",
+      "text": "Easy to use",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-14",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Groww app",
+      "text": "Very nice",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-13",
+      "platform": "App Store",
+      "rating": 1,
+      "title": "I hate this app",
+      "text": "This app is very slow in withdrawal and also many charges are applied",
+      "theme": "Withdrawals & Funds"
+    },
+    {
+      "date": "2026-09-13",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Excellent",
+      "text": "Good app",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-13",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Performance of GROWW app",
+      "text": "Very good",
+      "theme": "App Stability"
+    },
+    {
+      "date": "2026-09-13",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Investors app",
+      "text": "Good app for mutual funds investors",
+      "theme": "Withdrawals & Funds"
+    },
+    {
+      "date": "2026-09-13",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Easy to use",
+      "text": "Good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-13",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good",
+      "text": "Good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-13",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "GREAT APP",
+      "text": "Best investing app ever👍 don’t know about others but it works for me",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-13",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good",
+      "text": "Best platform for investments",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-12",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good",
+      "text": "Good n easy investment",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-12",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Nice Aplication and easy to understand,handling",
+      "text": "My experience is good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-12",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "100",
+      "text": "Good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-12",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good service",
+      "text": "Good",
+      "theme": "Customer Support"
+    },
+    {
+      "date": "2026-09-12",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Groww is best",
+      "text": "Best App for stocks,mutual funds,IPO etc.",
+      "theme": "Withdrawals & Funds"
+    },
+    {
+      "date": "2026-09-12",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Ok",
+      "text": "Ok",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-12",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "App",
+      "text": "User friendly Much useful for new entrants",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-11",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good",
+      "text": "Nice application",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-11",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Font size",
+      "text": "Everything good, if the font size able to make big it will fine. Thank you",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-11",
+      "platform": "App Store",
+      "rating": 1,
+      "title": "Need Volume in index",
+      "text": "Without volume how a trader can trade efficiently, enable it for seem less trading in single window",
+      "theme": "Order Execution"
+    },
+    {
+      "date": "2026-09-11",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good app. But demands update frequently",
+      "text": "App demands update daily is the only problem. Otherwise app is good.",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-11",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Trading",
+      "text": "Best app for all trading and investment needs",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-11",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good service",
+      "text": "Best",
+      "theme": "Customer Support"
+    },
+    {
+      "date": "2026-09-11",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good",
+      "text": "Good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-11",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Investors app",
+      "text": "Great experience",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-11",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good App",
+      "text": "Very good app for beginners",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-11",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good",
+      "text": "Really nice",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-11",
+      "platform": "App Store",
+      "rating": 1,
+      "title": "Harassment",
+      "text": "Harassment at the time of payment of Mutual fund Lumpsum.",
+      "theme": "Withdrawals & Funds"
+    },
+    {
+      "date": "2026-09-11",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "All good",
+      "text": "Essay to use",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-11",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Groww should GROWW!",
+      "text": "I love the easy, usable way a digital relic like me can manage and navigate to grasp so many diverse ideas and areas to invest and grow my portfolio!!! Cheers. 🥂",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-11",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good",
+      "text": "Very good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-11",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Nice",
+      "text": "App",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-11",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Ahmad",
+      "text": "Ahmad",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-11",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good",
+      "text": "Good for investment",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-11",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Very nice interface",
+      "text": "Shandaar app for all traders",
+      "theme": "Order Execution"
+    },
+    {
+      "date": "2026-09-10",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "review",
+      "text": "abe laude , macchar ki jhaant, bar bar review mangna band kar madarchooodddd, paise toh ulta minus mai chal rha h , kya lund review du tereko , bhaaaak maaaaaaadarchoood",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-10",
+      "platform": "App Store",
+      "rating": 4,
+      "title": "Ok",
+      "text": "Ok",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-10",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Excellent",
+      "text": "Excellent",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-10",
+      "platform": "App Store",
+      "rating": 2,
+      "title": "Flat 5 rs new Extra Charge",
+      "text": "Flat 5 rs new Extra Charge for every stock purchase",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-10",
+      "platform": "App Store",
+      "rating": 1,
+      "title": "Worst experience",
+      "text": "Pathetic app for investment and pathetic customer service as well. No update on unit allocation even though the date of allocation has passed. And terrible customer service as nobody comes in to help. Just reassigns to a new person in the same chat and nobody bothers to reply",
+      "theme": "Customer Support"
+    },
+    {
+      "date": "2026-09-10",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Very good",
+      "text": "Awesome",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-10",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "wow",
+      "text": "amazing",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-10",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good",
+      "text": "Good and easy",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-10",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Grow with Grow App",
+      "text": "Good aap Easy Handel",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-10",
+      "platform": "App Store",
+      "rating": 1,
+      "title": "Needs improvement and customer friendly",
+      "text": "Such a useless kyc system.",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-10",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Very Good",
+      "text": "Good platform. open a E Commerce Site also.",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-10",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Best",
+      "text": "Good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-10",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "OSS",
+      "text": "One stop solution for your financial management",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-10",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good app",
+      "text": "Good support",
+      "theme": "Customer Support"
+    },
+    {
+      "date": "2026-09-10",
+      "platform": "App Store",
+      "rating": 1,
+      "title": "Sip Declined",
+      "text": "On groww when I will do sip it is rejected after 7-8 days dont know why it is happened with 4 different mutual funds, I have raised a ticket but they are not responding worst experience ever, I will not use groww anymore",
+      "theme": "Order Execution"
+    },
+    {
+      "date": "2026-09-10",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good",
+      "text": "10/10",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-10",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Best trading app",
+      "text": "Perfect charts and smooth interface for uninterrupted trading",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-10",
+      "platform": "App Store",
+      "rating": 1,
+      "title": "Fraud karta hai",
+      "text": "Donot be install",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-10",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Awesome",
+      "text": "Awesome",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-10",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Very efficient platform",
+      "text": "Groww is a very good and efficient platform with good analytical data available.",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-10",
+      "platform": "App Store",
+      "rating": 1,
+      "title": "Very very bab",
+      "text": "Only lose",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-10",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Excellent platform",
+      "text": "It’s a excellent platform Simple and easy to use and works well for everyone who needs to work in stock market",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-10",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Amazing",
+      "text": "I love the app. It’s very simple & convenient to use",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-10",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Best app for Mutual funds",
+      "text": "I really like Groww app for Mutual fund. Their UI and quick analysis is good. Also ticket resolution is very prompt. Love the experience",
+      "theme": "Withdrawals & Funds"
+    },
+    {
+      "date": "2026-09-10",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Very good",
+      "text": "Rate of interest high Baki bahut achi sab best hai",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-10",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "User Friendly",
+      "text": "User Friendly app easily understandable",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-10",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Lifesaver",
+      "text": "This app is so good for long term",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-09",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "The best",
+      "text": "The best app",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-09",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Great app for beginners",
+      "text": "Excellent app for trading middle class and savings , trust me 1 day I wealth will kick you by groww",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-09",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "No. 1",
+      "text": "India’s no 1 trading platform. My experience with Groww is outstanding..🫡🙏🏻",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-09",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Great",
+      "text": "Good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-09",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Perfect",
+      "text": "Good and fast",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-09",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "G App",
+      "text": "If you are a beginner or a long-term investor looking for a clutter-free, hassle-free app to build your wealth, Groww is an exceptional choice. Advanced traders, however, may prefer platforms with heavier charting tools.",
+      "theme": "Order Execution"
+    },
+    {
+      "date": "2026-09-09",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Very good",
+      "text": "Very good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-09",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Smooth",
+      "text": "Transaction was as smooth as flow of water",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-09",
+      "platform": "App Store",
+      "rating": 1,
+      "title": "Worst app",
+      "text": "Worst app, they will breach your security and open f&o segment on there without your consent and bsda yes to no without any consent or intimation to user and if complaint is raise they just make you go round and round with no solution and close ticket without any resolution with a thank you, customer care experience is as equal to Instagram fraud sellers if you face any difficulties or have an issue they have no answer",
+      "theme": "Order Execution"
+    },
+    {
+      "date": "2026-09-09",
+      "platform": "App Store",
+      "rating": 1,
+      "title": "Average",
+      "text": "App not user friendly and the dashboard doesn’t display direct total orders",
+      "theme": "Order Execution"
+    },
+    {
+      "date": "2026-09-09",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Nice",
+      "text": "10",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-09",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good experience",
+      "text": "User experience is great.",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-09",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Very Good App",
+      "text": "Good online platform for traders",
+      "theme": "Order Execution"
+    },
+    {
+      "date": "2026-09-09",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Singh",
+      "text": "Good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-09",
+      "platform": "App Store",
+      "rating": 4,
+      "title": "Nice",
+      "text": "Very nice app",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-09",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "H",
+      "text": "H",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-09",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Maharaja",
+      "text": "I am using Grow app for 3 years and I am fully satisfied.God bless Grow. Tum jug jug jio Maharaja",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-09",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Hitha Janaki",
+      "text": "Thank you so much Universe! Thank you God ! Thank you Groww !💝😘",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-09",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Easy to operate",
+      "text": "Nice investment app",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-09",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Growth",
+      "text": "Groww means Growth",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-09",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Scalping",
+      "text": "Good broker for scalpers",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-09",
+      "platform": "App Store",
+      "rating": 3,
+      "title": "Delay chart",
+      "text": "Everything is fine and it is user friendly.. even though I have high internet speed ..chart is delaying with the range of 5-10 seconds .. please improve this",
+      "theme": "App Stability"
+    },
+    {
+      "date": "2026-09-09",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Use",
+      "text": "Very Good experience",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-09",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Thank you",
+      "text": "I love Groww.",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-09",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Nice",
+      "text": "Grow stocks app is the best",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-09",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good",
+      "text": "Best platform",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-09",
+      "platform": "App Store",
+      "rating": 1,
+      "title": "Not working in iphone17",
+      "text": "Its not working in iphone 17. Unable to login through any mail",
+      "theme": "Account & Security"
+    },
+    {
+      "date": "2026-09-09",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Very good interface",
+      "text": "Very convenient in setup and use. Interface is great..i am using mutual funds as if now. Thanks",
+      "theme": "Withdrawals & Funds"
+    },
+    {
+      "date": "2026-09-09",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Excellent improvement recently by introducing GR-1 insights",
+      "text": "The ease of operation has always been there and also the latest important news for the day is pretty useful Now the introduction of GR-1 insights analysing what’s going on with a stock and what is the meaning of recent changes in valuation, quarterly results and company insights are also very useful Then the addition of technical data and trends also helps a lot in making decisions so overall 👍👍👍",
+      "theme": "Order Execution"
+    },
+    {
+      "date": "2026-09-09",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Grow User Friendly",
+      "text": "Grow is very User Friendly Mobile Application for Trading. also its Pre-Apply IPO Feature makes you one step ahead of other Application. Off Trading Hours we can book Order and they are placed easily",
+      "theme": "Order Execution"
+    },
+    {
+      "date": "2026-09-09",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Superb",
+      "text": "Very good app for all your market management",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-09",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Sanket",
+      "text": "I loved new networth feature can you pls add xirr so net worth can be seen using this",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-09",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Bapp of demate",
+      "text": "No 1 app in India",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-09",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Great",
+      "text": "Greatest",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-09",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Superb App",
+      "text": "Trading news analysis became user friendly and easy for understanding for new people and investors",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-08",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Groww",
+      "text": "Exlent",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-08",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Nice",
+      "text": "Nice",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-08",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Excellent app",
+      "text": "Excellent app easy to use feel comfortable",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-08",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "easy to operate",
+      "text": "its operations fir bying selling ipo applying is in seconds",
+      "theme": "Order Execution"
+    },
+    {
+      "date": "2026-09-08",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Very user friendly interface",
+      "text": "Excellent app with very good user interface, each to track and trace with full visibility on real-time basis",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-08",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Excellent service",
+      "text": "10 stars",
+      "theme": "Customer Support"
+    },
+    {
+      "date": "2026-09-08",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good",
+      "text": "Quick and easy to navigate",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-08",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Nice",
+      "text": "Ease of use",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-08",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Best app for your financial journey",
+      "text": "One of the best and easy to use app",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-08",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good",
+      "text": "Good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-08",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Easy",
+      "text": "Ease of transaction",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-08",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "❤️❤️",
+      "text": "❤️❤️",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-08",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Happy",
+      "text": "Awesome experience",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-08",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good Exp",
+      "text": "Easy to know this app and learning",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-08",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Fantastic App",
+      "text": "Easy to use, customer friendly",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-08",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Best way to invest",
+      "text": "Best way to invest",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-08",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Exceptional Platform",
+      "text": "Keep Growing",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-08",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Nice",
+      "text": "Too early to judge..let’s complete min 6 months",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-08",
+      "platform": "App Store",
+      "rating": 4,
+      "title": "User Friendly",
+      "text": "Using Groww application is fun and easy. The app breaks complex data into charts which enhances user. Highly recommend this app to all specially new age investors.",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-08",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Very good service",
+      "text": "No.1 service",
+      "theme": "Customer Support"
+    },
+    {
+      "date": "2026-09-08",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "good",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-08",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Great",
+      "text": "Exllent very good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-08",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Wonderful trading app!",
+      "text": "Groww is a very user friendly trading app for beginners and professionals, both. Works in real time with immediate settlements. Recommended.",
+      "theme": "Withdrawals & Funds"
+    },
+    {
+      "date": "2026-09-08",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Information",
+      "text": "Good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-08",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Vora’s",
+      "text": "Awesome",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-08",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Great app for investment",
+      "text": "Great app for investment",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-08",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Best app",
+      "text": "Best sip and investment app",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-08",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Operation good",
+      "text": "Operate krna bohot asaan hai",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-08",
+      "platform": "App Store",
+      "rating": 1,
+      "title": "Fraud app",
+      "text": "Hostile fraud app",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-08",
+      "platform": "App Store",
+      "rating": 4,
+      "title": "Good app",
+      "text": "Graphics are great but selling process are little bit difficult but by the way app is good",
+      "theme": "Order Execution"
+    },
+    {
+      "date": "2026-09-08",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good App",
+      "text": "user friendly, easy to use",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-08",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good",
+      "text": "Very nice work",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-07",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "👍",
+      "text": "Best and easy to operate",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-07",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "BEST STOCK MARKET APP.",
+      "text": "No other Stock Market app works so smoothly as does GROWW app🌺🙏",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-07",
+      "platform": "App Store",
+      "rating": 4,
+      "title": "Good",
+      "text": "Good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-07",
+      "platform": "App Store",
+      "rating": 4,
+      "title": "Good",
+      "text": "Nice but make it for IPad as well",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-07",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good",
+      "text": "Good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-07",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Best platform",
+      "text": "Easily understandable",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-07",
+      "platform": "App Store",
+      "rating": 1,
+      "title": "Grow",
+      "text": "Lost almost 5lakh in charges",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-07",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Very good",
+      "text": "Super",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-07",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Really Best app for beginners and professionals for stocks trading",
+      "text": "Loveit",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-07",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Exiland",
+      "text": "Good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-07",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good",
+      "text": "Nice",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-07",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Demat account",
+      "text": "Best among all",
+      "theme": "Account & Security"
+    },
+    {
+      "date": "2026-09-07",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "I like",
+      "text": "Nice",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-07",
+      "platform": "App Store",
+      "rating": 4,
+      "title": "A",
+      "text": "A",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-07",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Latest and best app!!",
+      "text": "Excellent app; well designed UI, seamless functionalities.",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-07",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good and easy investment app",
+      "text": "Trustworthy",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-07",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Rating",
+      "text": "User friendly interface",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-07",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Groww stocks and Mutual Fund",
+      "text": "Excellent and awesome options",
+      "theme": "Withdrawals & Funds"
+    },
+    {
+      "date": "2026-09-07",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good",
+      "text": "Very good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-07",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good platform",
+      "text": "Very easy and friendly interface",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-07",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Rana",
+      "text": "Excellent",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-07",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Ishu",
+      "text": "Good good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-07",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "sachu",
+      "text": "bali",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-07",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good",
+      "text": "Very easy",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-07",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good",
+      "text": "Super excited",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-07",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Venky",
+      "text": "Superb",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-07",
+      "platform": "App Store",
+      "rating": 1,
+      "title": "Full screen",
+      "text": "My iPad 10th generation doesn’t work on full screen support. Why ? Please fix it .",
+      "theme": "App Stability"
+    },
+    {
+      "date": "2026-09-07",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Super",
+      "text": "5",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-07",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good",
+      "text": "After new update, very good grew and more grew",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-07",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Groww",
+      "text": "Easy to use",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-07",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Great",
+      "text": "Great",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-07",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Best aap",
+      "text": "Esse behtar koi aur nhi 🧿⚡️",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-07",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "best platform for the beginner investor.simple and genuine",
+      "text": "best platform for the beginners investors",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-07",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Excellent",
+      "text": "Very good platform. Nicely built.",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-07",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Make money with Groww",
+      "text": "🫵",
+      "theme": "Withdrawals & Funds"
+    },
+    {
+      "date": "2026-09-07",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good",
+      "text": "Good one",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-07",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good services",
+      "text": "5",
+      "theme": "Customer Support"
+    },
+    {
+      "date": "2026-09-07",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Peace of mind",
+      "text": "Great experience",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-07",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Nice",
+      "text": "Nice",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-06",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Growing",
+      "text": "Superb and simplest of all time",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-06",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Great services",
+      "text": "Highly anticipate for your services",
+      "theme": "Customer Support"
+    },
+    {
+      "date": "2026-09-06",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good",
+      "text": "Goo",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-06",
+      "platform": "App Store",
+      "rating": 1,
+      "title": "Not sending notifications",
+      "text": "Grow not sending notifiaction in my iphone 13 mini with ips 18",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-06",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Simple, Advanced and User Friendly",
+      "text": "The app is simple with neat features and 1 click stock investment. Best for MF for SIP or lump sum and easy withdrawal and redemption . Anyone from 10 to 80 years can navigate",
+      "theme": "Withdrawals & Funds"
+    },
+    {
+      "date": "2026-09-06",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Easy to operate",
+      "text": "I find very to operate",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-06",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Easy interface for beginners",
+      "text": "Good interface and user experience",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-06",
+      "platform": "App Store",
+      "rating": 1,
+      "title": "chang uour mind set think only honesty",
+      "text": "inalso see here only wrong result it make by you or indont know because i am auto rixow druver i loas here when i right then you give me loss 35laks i lost. i feel cheat my family best of luck",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-06",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "V good",
+      "text": "Good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-06",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Best Stocking Apps",
+      "text": "Beat Apps",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-06",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Easy to use",
+      "text": "Easy to use",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-06",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "👍🏻👍🏻",
+      "text": "Super",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-06",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Best",
+      "text": "😍",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-06",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Great",
+      "text": "Good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-06",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Excellent",
+      "text": "Great!",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-06",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Smooth service and trusted",
+      "text": "Smooth service and trusted",
+      "theme": "Customer Support"
+    },
+    {
+      "date": "2026-09-06",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "I trust and groww",
+      "text": "For investment you can trust groww",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-06",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "LOVE IT",
+      "text": "One of the best apps!",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-06",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good app",
+      "text": "Please add scalper mode in commodities also",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-06",
+      "platform": "App Store",
+      "rating": 1,
+      "title": "Poor Customer Service",
+      "text": "I invested ₹10.00 Lakhs in SIF of SBI MAGNUM LONG SHORT NFO on 12/08/[NUMBER] via Groww however the investment doesn’t reflect in Groww app even till date i.e. 06/09/[NUMBER]. I have raised the pressing issue with their support team along with sought after documents & statements from CAMS. But no solution provided so far.",
+      "theme": "Customer Support"
+    },
+    {
+      "date": "2026-09-06",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good",
+      "text": "Good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-06",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Best",
+      "text": "Best",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-06",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Easy to operate",
+      "text": "Good app",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-05",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Very good",
+      "text": "Easy to use",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-05",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good",
+      "text": "Very good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-05",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Grateful",
+      "text": "Very good app",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-05",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Very easy app",
+      "text": "Simple app with ease of work. SIP calculator is very good option.",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-05",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Nice",
+      "text": "Good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-05",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Amazing",
+      "text": "Amazing",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-05",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Mr Subriyaz",
+      "text": "Very detailed explanation of every terminology as well as about the stocks and mutual funds",
+      "theme": "Withdrawals & Funds"
+    },
+    {
+      "date": "2026-09-05",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Very goo",
+      "text": "Very helpful",
+      "theme": "Customer Support"
+    },
+    {
+      "date": "2026-09-05",
+      "platform": "App Store",
+      "rating": 4,
+      "title": "Nice",
+      "text": "Very nice",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-05",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "🤩🤩🤩🤩",
+      "text": "Star",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-05",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good",
+      "text": "Very cool and good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-05",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Great app for investing",
+      "text": "Simple and user friendly app that I use for investing",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-05",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "App is crashing",
+      "text": "Unable to open the app. The moment u try to open it, it just crashes. Please help. This has never happened before.",
+      "theme": "App Stability"
+    },
+    {
+      "date": "2026-09-05",
+      "platform": "App Store",
+      "rating": 2,
+      "title": "BAD EXPERIENCE",
+      "text": "Very BAD Experience as it is not optimised for Tablets and iPad view like other brokers",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-05",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Best for SIP’s",
+      "text": "Easy to use and understandable",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-05",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Grow stock",
+      "text": "Best",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-05",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Best application for trading",
+      "text": "I am using Groww since last 4 years. This is user friendly application to See financial information of the company. It is easy to buy and sell securities on application.",
+      "theme": "Order Execution"
+    },
+    {
+      "date": "2026-09-05",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good",
+      "text": "Good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-05",
+      "platform": "App Store",
+      "rating": 4,
+      "title": "Unable to See SIP auto pay or date of Auto pay",
+      "text": "I have a issue with this app - in past i have auto with Yes bank for SIP , i have some issue with bank and i change my primary bank to HDFC and now i have deleted the Old bank from auto pay but how can i check my new auto pay is working or not ??",
+      "theme": "Withdrawals & Funds"
+    },
+    {
+      "date": "2026-09-05",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Hitesh Vakil",
+      "text": "All information are good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-05",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Nice",
+      "text": "Nice",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-05",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Very Good app",
+      "text": "Sandeep bhai",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-05",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "User friendly app",
+      "text": "User friendly",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-05",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Very Smooth",
+      "text": "Very very easy to operate",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-05",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Ss",
+      "text": "Gg",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-05",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Stock Management",
+      "text": "Great experience.",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-05",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "UI",
+      "text": "Have been using Grow for a long time now, it provides better user experience than other apps, thats what I love most about it",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-04",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Awesome",
+      "text": "Awesome",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-04",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Great App",
+      "text": "Great App Design",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-04",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Honest feedback",
+      "text": "The app can be improved by its UI and there are still some bugs which should be fixed in terms of latency..",
+      "theme": "App Stability"
+    },
+    {
+      "date": "2026-09-04",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Asahi galas and kajaria shares",
+      "text": "Very satisfied",
+      "theme": "Order Execution"
+    },
+    {
+      "date": "2026-09-04",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "App",
+      "text": "Really amazing",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-04",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Very helpful",
+      "text": "Amazing app",
+      "theme": "Customer Support"
+    },
+    {
+      "date": "2026-09-04",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Quite Good",
+      "text": "Good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-04",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good App",
+      "text": "Great app for investing and good ui",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-04",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good",
+      "text": "Very easy to use, UI standards are pretty good and easy to understand. Keeping going team groww🙏🏽❤️!",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-04",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Excellent",
+      "text": "99",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-04",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Well Platform",
+      "text": "Good In View And Study Easy In Diposit And Withdraw Amount",
+      "theme": "Withdrawals & Funds"
+    },
+    {
+      "date": "2026-09-04",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good",
+      "text": "Excellent",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-04",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Best",
+      "text": "Loved it",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-04",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Great",
+      "text": "Great",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-04",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Ok",
+      "text": "Super",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-04",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Rating",
+      "text": "Very nice",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-04",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "A best for SIP investors",
+      "text": "A good for a manage portfolio",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-04",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Mirza",
+      "text": "The",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-04",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Very good",
+      "text": "Good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-04",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Invest",
+      "text": "Good app",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-04",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Great 😊",
+      "text": "Fully satisfied",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-04",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Best App",
+      "text": "One of the best stock brokers",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-04",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Very easy to use",
+      "text": "I have been using grow for 3 years , very easy to use and withdrawals are too quick beat app for stock market",
+      "theme": "Withdrawals & Funds"
+    },
+    {
+      "date": "2026-09-04",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Suggestion",
+      "text": "It will be very useful if you can add “open interest “ indicator in Groww chart.",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-04",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Super",
+      "text": "Excellent app, one thing stocks showing avg",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-04",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "God",
+      "text": "God",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-04",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good",
+      "text": "Superb app",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-04",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Grow is the best",
+      "text": "I love Groww for it’s world class customer friendly software, transparency, business ethics, prompt services, and so on",
+      "theme": "Customer Support"
+    },
+    {
+      "date": "2026-09-04",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Shrikant",
+      "text": "Seth jii",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-04",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Trading",
+      "text": "Excellent",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-04",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good",
+      "text": "Good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-04",
+      "platform": "App Store",
+      "rating": 1,
+      "title": "SIP Activation not working",
+      "text": "hello Groww team, I wanted to inform you that. I’m using this application from last 3 years for sip management. but now new sip activation is not working properly, I have tried my all possibilities to activate sip please check this issue asap and improve this flow. the issue is: when I click on sip activate autopay - with my phonepe or googlepay upi it shows something went wrong, and inside groww upi it shows no upi is activated please activate - i dont want to activate. suggestion: use less vibe coding and proper feature improvement thanks! previous version was far better than this.",
+      "theme": "Withdrawals & Funds"
+    },
+    {
+      "date": "2026-09-04",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Great app",
+      "text": "Works very well",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-04",
+      "platform": "App Store",
+      "rating": 4,
+      "title": "User experience 💝",
+      "text": "Nice",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-04",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Groww",
+      "text": "Excellent",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-04",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "review",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-03",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good app to invest",
+      "text": "Amazing app to invest from very simplified",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-03",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Saswata",
+      "text": "Its too much user friendly",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-03",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good",
+      "text": "Perfect platform for trading!",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-03",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Best",
+      "text": "Always recommend",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-03",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Extremely user friendly!",
+      "text": "My experience with Groww has been superb! Particularly with stocks and the support team is always helpful!",
+      "theme": "Customer Support"
+    },
+    {
+      "date": "2026-09-03",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "👍👍",
+      "text": "Very good platform for mutual fund,stocks & IPO. 👍👍👍",
+      "theme": "Withdrawals & Funds"
+    },
+    {
+      "date": "2026-09-03",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Amazing",
+      "text": "🥰🥰",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-03",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "D",
+      "text": "Good very",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-03",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Feedback",
+      "text": "Very good experience and friendly",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-03",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Padmavathi",
+      "text": "Very Informative",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-03",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good for share market knowledge",
+      "text": "5 star",
+      "theme": "Order Execution"
+    },
+    {
+      "date": "2026-09-03",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Dharma",
+      "text": "Ok",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-03",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Very cool",
+      "text": "Much efficient",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-03",
+      "platform": "App Store",
+      "rating": 1,
+      "title": "App load time",
+      "text": "App load is taking mores than 30-40 seconds, please check",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-03",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good apps to invest",
+      "text": "This is a good app to invest",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-03",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "UPS and down",
+      "text": "Very risky",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-03",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Platform",
+      "text": "Very nice platform",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-03",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Excellent application, very simple in use",
+      "text": "Hats off who’s developed such an easy user interface",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-03",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "So nice",
+      "text": "I am verry happy with grow",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-03",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good",
+      "text": "Good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-03",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Excellent",
+      "text": "Expert to suggest no knowledge",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-03",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good",
+      "text": "It’s good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-03",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good app",
+      "text": "Great experience so far",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-03",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good",
+      "text": "Easy handling",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-03",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "very happy",
+      "text": "very good app",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-03",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Great experience easy to understand",
+      "text": "One of the best trading aap I ever used",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-03",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good",
+      "text": "V good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-03",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Better than its competitors",
+      "text": "Easy to use and understandable",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-03",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Great app",
+      "text": "Too good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-03",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Excellent",
+      "text": "Excellent",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-03",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "GROWW",
+      "text": "Best broker of Indian stock market.",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-03",
+      "platform": "App Store",
+      "rating": 4,
+      "title": "Very Simple",
+      "text": "Good app but need to improve in indicators",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-03",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Equity and mutual fund",
+      "text": "Excellent",
+      "theme": "Withdrawals & Funds"
+    },
+    {
+      "date": "2026-09-03",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Supar app",
+      "text": "Supar app",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-03",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good",
+      "text": "Niche",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-03",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Very good",
+      "text": "5",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-03",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Excellent App",
+      "text": "Ekdum JHAKAAS app hain Groww 👍🏻",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-03",
+      "platform": "App Store",
+      "rating": 1,
+      "title": "Third class service",
+      "text": "5 din se jyada ho gye account opening process kiye huye abhi tak koyi update nhi h bakwas app",
+      "theme": "Customer Support"
+    },
+    {
+      "date": "2026-09-03",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "App",
+      "text": "Very good app for investment beginners & active investors as well. The emails are also useful for understanding market insights and dynamics 👍😊",
+      "theme": "Customer Support"
+    },
+    {
+      "date": "2026-09-03",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Easy",
+      "text": "Very easy to Operate",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-03",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Best",
+      "text": "Super app",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-03",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Useful app.",
+      "text": "Very helpful.",
+      "theme": "Customer Support"
+    },
+    {
+      "date": "2026-09-03",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Best trading app",
+      "text": "Superb app for IPO AND TRADING",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-03",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Great platform",
+      "text": "Many THANKS",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-03",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Best ever app",
+      "text": "Best app for all beginners and sharpening",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-03",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Superb App",
+      "text": "I like quick intuitive features to trade fast and with precision!",
+      "theme": "Order Execution"
+    },
+    {
+      "date": "2026-09-03",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Same day we can buy stock after sell",
+      "text": "Excellent application",
+      "theme": "Order Execution"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good",
+      "text": "Good service",
+      "theme": "Customer Support"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Super",
+      "text": "5 star",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Grow",
+      "text": "Nice",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Secure",
+      "text": "Safe and secure account. Fair deal at genuine charges.",
+      "theme": "Account & Security"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Great",
+      "text": "Over all good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "The algorithm",
+      "text": "Nice look up and stability!",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good to use",
+      "text": "Top user interface",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Awesome",
+      "text": "Superb",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Best app for beginners",
+      "text": "Excellent for sip mutual funds",
+      "theme": "Withdrawals & Funds"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Smart & Easy Investing Experience",
+      "text": "Really impressed with the Groww app! I recently bought a share using the AI feature, and the experience was very smooth. The order was prepared for me automatically, and I just had to click the Buy button to place it. Super simple, fast, and convenient. Great experience so far! Highly recommended.",
+      "theme": "Order Execution"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Groww means growth",
+      "text": "Very fast & easy to use app",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good Experience",
+      "text": "Neat and Clean UI/UX",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Trading",
+      "text": "Awesome app for trading.",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "I am using since 5 years",
+      "text": "Very very easy to understand and easy to place any orders",
+      "theme": "Order Execution"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Earn money",
+      "text": "Good for knowledge and good for money",
+      "theme": "Withdrawals & Funds"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good",
+      "text": "Excellent",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 3,
+      "title": "Stop pushing Groww loan app",
+      "text": "Every time I open Groww app , you app pushes me to the AppStore to download Groww loan app . Stop !! it’s really annoying.",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "V s",
+      "text": "100% trusted app",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "John",
+      "text": "👍👍👍",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Excellent",
+      "text": "Very good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 4,
+      "title": "Brokerage charge",
+      "text": "Batter if the brokerage charge gets down Groww can attract many more customers/user to in is bucket",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good",
+      "text": "Good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Very easy to use",
+      "text": "Applications very easy to use and understand",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Excellent App",
+      "text": "Very simple design and ease of use along with speed and accuracy",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Mr",
+      "text": "Jitendra khanna",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good",
+      "text": "Its easy and smooth to use for me",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Excellent",
+      "text": "Very interactive and easy to use interface. Overall, it’s an excellent application for all trading, and mutual fund requirement.",
+      "theme": "Withdrawals & Funds"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Best App",
+      "text": "It is the most user friendly n trustworthy app for trading",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Jaldi download karo Grow Karo",
+      "text": "This the best app ever I have seen for stocks and mutual funds. I was a beginner and this app made me feel so comfortable like I am using it since ages ago. Kudos to Grow app !!!",
+      "theme": "Withdrawals & Funds"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Easy user interface",
+      "text": "Groww’s interface is very easy to use for all",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "groww stocks",
+      "text": "கூட்ஸ் ஆப்",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good",
+      "text": "Overall it's gud",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "User friendly",
+      "text": "Overall, using grow is an superb experience, specially in terms of easy to understand and every information on finger trip",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Nice work",
+      "text": "Good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Best App to Grow",
+      "text": "All investment in one application",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Awe",
+      "text": "Seriously a great app to use and is very user-friendly.",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Easy and fast",
+      "text": "Unbelievably loving this app to trade in everyday life. It’s easy to use and system is fantastic too.",
+      "theme": "Order Execution"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Very Good Investing Application",
+      "text": "Very Good Investing Application",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Xxx",
+      "text": "Lovely app",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "S",
+      "text": "E",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good",
+      "text": "Good recommendation from my side to my friends",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Best investment option",
+      "text": "Thank you",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Sip nice plan ❤️",
+      "text": "Sip nice plan ❤️",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 1,
+      "title": "Bad time",
+      "text": "Modi hatao market main kuch ho payega",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Best trading app for beginners",
+      "text": "Simple best super",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Not So Smooth",
+      "text": "Make this smooth as like Android. Please .",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good application",
+      "text": "Easy to use app to buy and sell",
+      "theme": "Order Execution"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good",
+      "text": "Thank you",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "DMP",
+      "text": "DMP",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "we are growing",
+      "text": "my fund is growing",
+      "theme": "Withdrawals & Funds"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good",
+      "text": "Easy to use",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good brokerage app",
+      "text": "Very good service",
+      "theme": "Customer Support"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Easy to use",
+      "text": "Good to have the app",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Best App",
+      "text": "User friendly easy to use fast service mostly recommended",
+      "theme": "Customer Support"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Great",
+      "text": "Very good aap",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "User friendly",
+      "text": "Good to use",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Best",
+      "text": "Good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "App review",
+      "text": "App is good without any hiccups so far!",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Great experience",
+      "text": "Great app. Sometimes buy price seems to be higher than initial shown price.",
+      "theme": "Order Execution"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good app",
+      "text": "Good app",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Friendly APP",
+      "text": "User friendly",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good",
+      "text": "Very good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Reliable",
+      "text": "works could be done very easily .",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "User friendly",
+      "text": "Groww is super user friendly and reliable for beginners as well as expert investors. Thank you",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-02",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Easy and safe",
+      "text": "Easy and safe",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Stocks &IPO",
+      "text": "Excellent app....extremely easy and highly intuitive for buying and selling stocks",
+      "theme": "Order Execution"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Mast",
+      "text": "Good service",
+      "theme": "Customer Support"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 1,
+      "title": "Account frozen, useless support, cost me thousands",
+      "text": "I have been locked out of my own investments due to a \"ReKYC\" process that the app explicitly claims takes \"1-2 days.\" It has now been well over a week, and my account is still completely frozen with a systemic error stating onboarding is not allowed. Because Groww restricted my account, I was prevented from executing a time-sensitive sell order on August 28th. I urgently requested their support chat to manually execute the trade on my behalf to prevent a financial hit, but I was completely ignored. As a direct result of this operational failure and their account lock, my position dropped, and I suffered a direct loss of ₹4,000 in profits that I was actively trying to book. The customer service is abysmal. The escalation team operates in a continuous loop, closing out my tickets with automated, copy-pasted templates stating the issue is \"prioritized\" and \"forwarded to the concerned team,\" yet the account remains blocked and the issue is never actually resolved. If you want a reliable broker where you can actually access your portfolio and sell your shares during crucial market moments, look elsewhere. Groww's system delays and completely unresponsive support will literally cost you money. Highly disappointing experience.",
+      "theme": "Order Execution"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Very good",
+      "text": "Good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Awesome",
+      "text": "Good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Excellent",
+      "text": "Good work",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Best",
+      "text": "Best",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "its easy",
+      "text": "The app is very easy to use",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Ilyas",
+      "text": "👍",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "My experience with Groww",
+      "text": "So far Soooo good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Pradeep Sholapurkar",
+      "text": "It’s made my life so much simpler with its easy to use App. There’s a sense of security",
+      "theme": "Account & Security"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "nice app",
+      "text": "nice app",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Nabajit kalita",
+      "text": "Good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Kishor",
+      "text": "Very wonderful user friendly UX design of App",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Simple and easy",
+      "text": "Simple and easy",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Bests",
+      "text": "True",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Best Financial App",
+      "text": "By far the best financial app I have used. Setting up an account took minutes, and managing my portfolio is effortless thanks to the brilliant UI. Highly recommend it to anyone looking for a hassle-free, secure way to invest and track the market.",
+      "theme": "Account & Security"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Mr Negi",
+      "text": "User friendly",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good",
+      "text": "Good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good",
+      "text": "Easy to use",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 3,
+      "title": "High brokerage, average app experience",
+      "text": "Though they don’t charge AMC, brokerage itself is high. Other popular apps have better tariffs. The app itself is not feature rich. I felt other competitor apps have better features.",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 4,
+      "title": "Investment",
+      "text": "Great experience",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Best",
+      "text": "So helpful",
+      "theme": "Customer Support"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Amazing app!!",
+      "text": "Five star review",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good",
+      "text": "Easy to use very good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Ok",
+      "text": "Anurag",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Very good app",
+      "text": "Very user friendly. The best I found so far was",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Feature Rich App",
+      "text": "Easy to use and informative",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Simple to use",
+      "text": "Good for common people",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Great Good app",
+      "text": "One of the best apps for trading.",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Smooth experience",
+      "text": "All is great",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "charges, Jada Hai",
+      "text": "Baki shb kuch Theek Hai",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Best",
+      "text": "5 star",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good app",
+      "text": "Best app",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Easy and clear",
+      "text": "This app is easy to understand and good for beginners and also for experts.",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 4,
+      "title": "Best app for Stocks",
+      "text": "Dear Groww team, I hope, you guys are doing great. I have been using the Groww app since [NUMBER]. It's very easy to use. Whereas, I am so disappointed about the decision taken by the Groww team to remove the analyst suggestion about the stocks in the latest version. It was very useful. I hope the Groww team will understand the priority of this section and how helpful for the investors in order to get an expert proposition on a particular stock. So and based on the above, you are requested to get back the analyst suggestion option in the next update.",
+      "theme": "Order Execution"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good experience",
+      "text": "Easy to invest good app",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Well informative n responsive Customer care.. Thank you Grow..",
+      "text": "Grow customer care s responsive n platform s beginner friendly.. Thank you🙏",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Best application in Finance world",
+      "text": "Very beginner-friendly interface with a clean and intuitive design.",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Second to none",
+      "text": "One of the best apps and services out there for all your financial plans. Truly second to none. I have been with Groww since [NUMBER] and find their platform and services to be exceptional.",
+      "theme": "Customer Support"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good app",
+      "text": "Easy to use",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Awesome app",
+      "text": "Easy to use and understand good for beginners",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good and easy to use",
+      "text": "Easy to use",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Ok",
+      "text": "Ok",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 4,
+      "title": "Excellent App",
+      "text": "While using the Groww app, I found it very user-friendly and easy to navigate. It provides a lot of useful information on IPOs, stocks, FDs, bonds, and various other investment opportunities, which helps users explore and make informed decisions. So far, I haven’t faced any glitches or technical issues, and overall, my experience with the app has been very good.",
+      "theme": "App Stability"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Everything is updated",
+      "text": "Experience wise this app is working very good.",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Best serive",
+      "text": "Quick open and fast response",
+      "theme": "Customer Support"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Best App so far",
+      "text": "From past 1 year I was using other trading app but GROWW is user friendly One can easily research before investing",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good",
+      "text": "It’s a wonderful application",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Awesome",
+      "text": "Easy to understand, simple and amazing app",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Very issue to use",
+      "text": "Suggestions on stocks are also good and helpful",
+      "theme": "Customer Support"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Mr",
+      "text": "Yasir",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Need iPad App on priority",
+      "text": "Need iPad App for Groww",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Wonderful",
+      "text": "Experience",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Anil",
+      "text": "Good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "My experience",
+      "text": "User friendly & easy to operate",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Wonderful App",
+      "text": "It’s Very easy to access and advanced options are available Easy UI and excellent tracking",
+      "theme": "Account & Security"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good",
+      "text": "Experience",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Rana gill",
+      "text": "very easy to use for stocks",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Just the best interface and easy to use",
+      "text": "Great app for every aspect of finance right at your dashboard.",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Nice and easy",
+      "text": "Easy to navigate",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Gargious",
+      "text": "Superb",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Overall",
+      "text": "Good for stocks also",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "All in one",
+      "text": "Super",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-01",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Fast",
+      "text": "Super Groww fast",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-08-31",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Nice",
+      "text": "Nice",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-08-31",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Dipankar",
+      "text": "Good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-08-31",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Super and easy to use app",
+      "text": "Super",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-08-31",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good platform",
+      "text": "Excellent info and clear UI aids compared to other platforms",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-08-31",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Best",
+      "text": "I loved the lock fno trading feature.. avoids over trading Once u got profit u can lock fno trading for the day n avoid the grid n over trading",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-08-31",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Super",
+      "text": "All in one Place",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-08-31",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Trading",
+      "text": "Great app",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-08-31",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "App is great but one feature needed desperately",
+      "text": "Need GTT with Buying as well as Sell together in one screen",
+      "theme": "Order Execution"
+    },
+    {
+      "date": "2026-08-31",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Usage",
+      "text": "Easy to use",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-08-31",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Awesome app",
+      "text": "One of the best investing app in India!",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-08-31",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good",
+      "text": "Very good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-08-31",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good",
+      "text": "Bahut badhiya share market investing app hai",
+      "theme": "Order Execution"
+    },
+    {
+      "date": "2026-08-31",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Nice app",
+      "text": "Best performance",
+      "theme": "App Stability"
+    },
+    {
+      "date": "2026-08-31",
+      "platform": "App Store",
+      "rating": 4,
+      "title": "Fixed Deposit Tab",
+      "text": "Everything is awesome with this app except some important tabs, which are missing. It would have been a full 5 star app if it had the Fixed Deposit Tab and the US stock market Tab included like the Desktop version of Groww",
+      "theme": "Withdrawals & Funds"
+    },
+    {
+      "date": "2026-08-31",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Groww with Groww",
+      "text": "Best and easy app for investing",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-08-31",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Jerry",
+      "text": "A good broker with zero joining and no annual fees but if they could reduce the brokerage charges will be much better than any other broker application.",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-08-31",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Easy to understand",
+      "text": "Transparent and easy to understand",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-08-31",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good app",
+      "text": "Very fast",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-08-31",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Great App for investment",
+      "text": "Great App for investment",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-08-31",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good",
+      "text": "v Good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-08-31",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "🙏",
+      "text": "👍👌",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-08-31",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Grow",
+      "text": "Excellent platform 👍",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-08-31",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Amazing",
+      "text": "Very user friendly",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-08-31",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Exceptional and Seamless",
+      "text": "Excellent user experience.",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-08-31",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Sachin",
+      "text": "Excellent and user friendly app",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-08-31",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Best App for Investing",
+      "text": "Easy to use",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-08-31",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Tanamyi",
+      "text": "I am completely new to shares, but grow is guiding me excellently Very simple and giving full knowledge",
+      "theme": "Order Execution"
+    },
+    {
+      "date": "2026-08-31",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "User friendly app",
+      "text": "User friendly app",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-08-31",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "great",
+      "text": "easy to use",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-08-31",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Dmat",
+      "text": "Good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-08-31",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Review",
+      "text": "Goodness",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-08-31",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Highly committed app",
+      "text": "Grow app provides a wide variety of services with committed accuracy.",
+      "theme": "Customer Support"
+    },
+    {
+      "date": "2026-08-31",
+      "platform": "App Store",
+      "rating": 4,
+      "title": "Good",
+      "text": "Good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-08-31",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "One stop of solution for investments",
+      "text": "One stop of solution for investments",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-08-31",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "👌",
+      "text": "👌",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-08-31",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Trading",
+      "text": "Good applications for new users",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-08-31",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Great app",
+      "text": "Amazing App",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-08-31",
+      "platform": "App Store",
+      "rating": 4,
+      "title": "Hi haaa",
+      "text": "Fast and secure",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-08-31",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "NIC",
+      "text": "Super",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-08-31",
+      "platform": "App Store",
+      "rating": 4,
+      "title": "Good",
+      "text": "Easy to use",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-08-31",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Good",
+      "text": "Good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-08-31",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Investment made easy",
+      "text": "Groww platform is easy to operate. Customer support is great.",
+      "theme": "Customer Support"
+    },
+    {
+      "date": "2026-08-31",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Gond",
+      "text": "👍",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-08-31",
+      "platform": "App Store",
+      "rating": 5,
+      "title": "Easy",
+      "text": "Very good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 1,
+      "title": "",
+      "text": "service not good, charges high...interface laging..",
+      "theme": "App Stability"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 1,
+      "title": "",
+      "text": "too much service charges.......so many hidden charges....customer service wrost...they will respond after after death or mkt hours close....",
+      "theme": "Customer Support"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 1,
+      "title": "",
+      "text": "easy interface lack of data and trade execute Kiya entry may almost 1 second ka delay but spread order ki timing same thi exit all pr click Kiya sell wala order 5-7 second baad kata 3:20:4 second p or buy wala 10 second delay kata 3:20:7 second p or dono m difference fir bhi 3 second ka customer case say baat Hui glti maan li fir khtay senior say baat krtay hai fir pata nhi kya hua kya mood bdla khtay exchange m hota h ye kabhi kabhi blame shifting krnay lgay apni glti ka exchange pr🥲",
+      "theme": "Order Execution"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 1,
+      "title": "",
+      "text": "Worst experience I ever had on any demat platform. I brought unlisted shares and Grow support took one month just to reflect in my demat amount, despite providing them the exact data and after that new issue now I am unable to sell those shares and customer support is pathetic, always delay in response.",
+      "theme": "Order Execution"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "nice",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 1,
+      "title": "",
+      "text": "easy interface but data kam hai or execution spread may bilkul bkwas 1 lot may 100-200 ka loss normal hai joo dikh rha h as compared to that delay in order ek sath spread kiya exit but sell wala or buy order may hi 3 second ka difference de diya voo bhi spread may jab ki exit all pr click Kiya that time I face loss of [NUMBER] in CAS in spread in groww",
+      "theme": "Order Execution"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "nice",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "fine",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "nice groww apps",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "awesome",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 4,
+      "title": "",
+      "text": "ok",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "superb and faster",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good 👍",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "Good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 3,
+      "title": "",
+      "text": "groww app is best for investment",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good app",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 1,
+      "title": "",
+      "text": "brokrej charge thoda kam kar lo bhi taki profit ho",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "Great app! Fast, smart, and very helpful. I really enjoy using groww",
+      "theme": "Customer Support"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "best app trending",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "Awesome 👍",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 1,
+      "title": "",
+      "text": "I don't have words to describe how pathetic customer care service offers by Groww. When you call them first AI bot will talk to you then it connects to some person, the real game starts here to pick a call you have to wait More than 20 minutes...I don't know how they justify this. Very very Disappointed with it.",
+      "theme": "Customer Support"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "Very nice",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "Grow is perfect plotfarm for trading. very user friendly.",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 1,
+      "title": "",
+      "text": "Indroduce drag sl and target while trading",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "५years",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "very good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 1,
+      "title": "",
+      "text": "Risky App!! Pathetic Misguiding Cusomer Support Team. Dont map your precious money with such Apps!!",
+      "theme": "Withdrawals & Funds"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 1,
+      "title": "",
+      "text": "groww is the best",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 1,
+      "title": "",
+      "text": "Frustrated..No customer support.. Shifting to another platform. Account opening form filled for my minor daughter on 5th September but no response from the GROWW team, followed the process. When tried to contact through given contact waiting was 5 min even after 5 min call disconnected. Tried with chat channel also but no response.. complaint raised thrice through email still no response.. no communication about the status of new account opening.. frustrated",
+      "theme": "Customer Support"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 2,
+      "title": "",
+      "text": "very bad experience you never profit im groww app. last year losse [NUMBER]rs and brokrage and other charge [NUMBER]rs now think. They cheat public",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 1,
+      "title": "",
+      "text": "latest figures of P&L not showing in report previously it used to show but after 7th September no updation, how can we do trading without knowing the exact amount",
+      "theme": "Withdrawals & Funds"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "very good app",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "nice aap",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "very good 👍",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "Suroj Hembram thank you sir",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "Very good for all people but cannot be used family money you earn and trade for own his money",
+      "theme": "Order Execution"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 1,
+      "title": "",
+      "text": "now app has lag issue app took 3 to 4 second to do any work on it most irritating app is ever use for trading",
+      "theme": "App Stability"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 4,
+      "title": "",
+      "text": "okay",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "nice",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "thank you",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "super",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good tranding app",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "awesome 👍👍👍",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "very much",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "very good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "nice earning platform",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 1,
+      "title": "",
+      "text": "bht jada bekar haii bhai kon kon sy charg cut kr leteh hii y log ek bhi ₹ ka investment mt kro delet kro duneya bhr k charges haii wo bhi apko bina btaye cut kiye jate h warning bhi ni na hi show hota h sirf cut hote h fraud krte h",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "ok",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "its my pleasure to inform that easy to understand and handle the GROWW app for new customers.",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 1,
+      "title": "",
+      "text": "worst",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "great",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "deepu Gour mast aap h",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 1,
+      "title": "",
+      "text": "Bahut hidden charges lagate hai... alag alag reason se charges cut karte hai... customer support achcha nahi hai bahut late response karta hai...",
+      "theme": "Customer Support"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "ok",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "Right now grow is best app for treding",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "it's easy to understand",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good 👍",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 1,
+      "title": "",
+      "text": "Fraud wasted app GROWW brokerage looters. No new features. Best app is SAHI app low brokerage order execution is easy SL TP is on screen",
+      "theme": "Order Execution"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "happy 😃",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "Good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "Very Wonderful Experience",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 4,
+      "title": "",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 1,
+      "title": "",
+      "text": "groww app F and O always struck, glitches,slow moments very bad, very worst app always lag",
+      "theme": "App Stability"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "very good apps",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "mast",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "FIVE STAR ⭐✨⭐⭐⭐⭐",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "to be improved",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good 👍",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "nice",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "best app so far .",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "money",
+      "theme": "Withdrawals & Funds"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "user-friendly",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 2,
+      "title": "",
+      "text": "How many times Should I update the app whenever I open it asking for an update even though it is already updated is it an app or something. I'm totally disappointed with this application.",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 1,
+      "title": "",
+      "text": "I got losses because stop loss & trilling not working properly it's happened many more time I completed but still no solution the employees only for taking brokerage charges not for costomer services only take brokerage charges & costomer go to hell the sebi must take action against groww they are not able for single star also",
+      "theme": "Customer Support"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "Amazing and it will be amazing for if you use it wisely",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good app",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "nice",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "thank you",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good for stock",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "supervisor",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 1,
+      "title": "",
+      "text": "they rollout update 3 times in a week , what the hell, why they do so much keep updated ???. what nonsense 😒",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "mind blowing for trade",
+      "theme": "Order Execution"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "very good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 1,
+      "title": "",
+      "text": "very bed aap dot use",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "groww best aap he",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "best",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 1,
+      "title": "",
+      "text": "I have been using Groww for around 5 years, and based on my overall experience, I believe the app is quite good for investing in shares and market analysis. However, I am giving 1 star because of my recent experience with customer support. Despite being a long-time user, I was disappointed with the way my issue was handled and the support I received. For F&O trading, I also feel Groww is not very suitable due to higher brokerage charges and issues related to auto square-off/auto-sequencing. So,",
+      "theme": "Order Execution"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "very good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "ok",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "Good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "ok",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "user friendly",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 2,
+      "title": "",
+      "text": "this is not good service & not clear it's to charge service's",
+      "theme": "Customer Support"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "Good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "excellent",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 4,
+      "title": "",
+      "text": "please add Pinescript option for customised Indicator so that we don't depend on other platforms for chart reading groww app is very good app need some improvement in pinescript code for customised indicator hope it will be resolved soon thanks",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "best trader appp",
+      "theme": "Order Execution"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "very quick",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "super",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 1,
+      "title": "",
+      "text": "worst customer support",
+      "theme": "Customer Support"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "paroking mera bahut liya gya ik liye gya is liya hame bahut kast hai is liya sara paisa widra kiye hum",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 1,
+      "title": "",
+      "text": "I m not trying to download the app",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 3,
+      "title": "",
+      "text": "ग्रो अप में स्केल मोड पर लिमिट प्राइस ऑर्डर डालने का ऑप्शन दे बाकी ठीक है तब मैं आपको फाइव स्टार रिव्यू दूंगा",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "multiple options are available to all and it is easy to use.",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 1,
+      "title": "",
+      "text": "kuch dino se bahut bekar chal rahi hai application market ik jagah ruki dikhata hai kai bar",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "nice 👍",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 4,
+      "title": "",
+      "text": "goood",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "nice",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 1,
+      "title": "",
+      "text": "The worst app always demands documentation",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "thank",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "very good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 4,
+      "title": "",
+      "text": "good but need to improve in coustom care services",
+      "theme": "Customer Support"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 4,
+      "title": "",
+      "text": "best groww app good app 🤍👍🏻",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 2,
+      "title": "",
+      "text": "Absolutely useless update loop😠 I am extremely frustrated with this app. Every single time you push an update, all of my technical indicators and chart setups (RSI, MACD, Moving Averages) are completely wiped out! It is infuriating to have to manually re-configure and re-apply my entire technical analysis layout every couple of weeks just because of a basic app update.",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "excellent performance",
+      "theme": "App Stability"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "nice.",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "easy operation",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "that's great 👍 aap",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "App is excellent. I have a suggestion. Please give a 'Select all' option in set alert so that deletion of alerts will be easy",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 1,
+      "title": "",
+      "text": "fraud app. stop loss doesn't work in mtf",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 4,
+      "title": "",
+      "text": "very good service for groww",
+      "theme": "Customer Support"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "super",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "very good feature",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 1,
+      "title": "",
+      "text": "It has stolen my money. If you use Groww you will have no profit, only huge loss.",
+      "theme": "Withdrawals & Funds"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "बहुत अच्छा",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "very useful market app",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good working",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 1,
+      "title": "",
+      "text": "broker charge bohat hai",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good 👍",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "Groww is a simple, user-friendly and convenient investment app. It is easy to use for mutual funds, stocks and tracking investments. The interface is clean and helpful, especially for beginners. Overall, a good experience with Groww. 👍⭐",
+      "theme": "Withdrawals & Funds"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "सुपर",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "Faster",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "best",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "very good app",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "very good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "superb 😑,crore times better then ange one , tq growww",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "nice app",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "okay",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good for treating",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 3,
+      "title": "",
+      "text": "easy UI for beginners but high brokerage charges",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good app",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "super friendly 💚",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "goog",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "ok",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "very fantastic app & good experience",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "ver good 👍",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "Dear Groww Team,I am a regular user of your platform and appreciate how easy you have made investing. I want to share some feedback to help improve the app:What is great:Simple UI: The app is very easy to navigate, even for beginners.Charges: Zero AMC and commission-free mutual funds are amazing features.All-in-one: Getting stocks, mutual funds, and UPI in one place is very convenient.",
+      "theme": "Withdrawals & Funds"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 4,
+      "title": "",
+      "text": "I am not able to swtich profiles after the recent update.",
+      "theme": "Account & Security"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "nice aap",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "very good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "bast Nice",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 1,
+      "title": "",
+      "text": "I’m not sure what’s going on with the Groww app. My September investment in one of my mutual funds has disappeared, even though the NAV was already credited. Additionally, I’m facing an issue where two folios are being created for my SIP, despite my Demat account having been closed over a year ago. I’ve contacted Groww support multiple times, but the issue is still not resolved. Very disappointing experience.",
+      "theme": "Withdrawals & Funds"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "TRADING APP",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "Good 👍",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "Hello Groww App Team Please Update The App Tradingview Chart Multiple Chart And Drag On Drop Target And Stoploss Option Please Reply My Com.",
+      "theme": "Order Execution"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "nice",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "excellent 👍",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "Very Good App",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 4,
+      "title": "",
+      "text": "Good app to invest in stocks for beginners",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 4,
+      "title": "",
+      "text": "Best App For Trading",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "khub sundor",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 3,
+      "title": "",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "❤️❤️",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-17",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "Groww App Is Very Simple And Smooth Interface 💕😘",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "best",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "Very Friendly Interface I am using it since [NUMBER], You should must explore it, there is many investments and trading options are availabe inside and also a good custommer support here, its make it India's leading Trading and Investing plateform. Choose ''Groww'' to grow your wealth😊",
+      "theme": "Customer Support"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 1,
+      "title": "",
+      "text": "very much",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "Very nice 👍",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "Nice",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "exlent app",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 1,
+      "title": "",
+      "text": "very bad trading application not use very slowly app",
+      "theme": "App Stability"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "best aap",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "do not understand this app.",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "Best for trading",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "Good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "excellent",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "excellent",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "Verified but still verifying again n again...not moving further bank verification page...",
+      "theme": "Withdrawals & Funds"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "very nice 👍.",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "ok",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "very good App for investment",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 1,
+      "title": "",
+      "text": "bahut bura mere 160 rupay mar liye",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "A good app, I have been using it for a long time.",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "super 👍",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 1,
+      "title": "",
+      "text": "commodity trading chart price and order price are different why, baised by big bull on trading day. Volume graph doesn't work on tranding day. trading charges are too high also.",
+      "theme": "Order Execution"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 1,
+      "title": "",
+      "text": "My bank account has been blocked due to an unexpected transaction from Groww. I did not initiate or withdraw any money, yet funds were automatically credited to my account. It has been almost a month, and my account is still blocked. As a result, my EMI and SIP payments cannot be processed, and I may not receive my salary. This has caused serious financial stress. Please investigate this issue urgently, clarify why the transaction occurred, and help resolve the matter at the earliest.",
+      "theme": "Withdrawals & Funds"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "im lost",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good app",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "nice",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 2,
+      "title": "",
+      "text": "great app but you have to update this app every week.. please do something team!",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "“Groww app is very easy to use and user-friendly. Investment, tracking and transactions are simple and convenient. Overall, a great experience with Groww. Highly recommended!” ⭐⭐⭐⭐⭐",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "thank you very much for your wishes 🙏",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "Good App",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "Nice",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "બેસ્ટ",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "very good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 1,
+      "title": "",
+      "text": "Now this app works like mutual fund agent.. investment doing in this app goes like regular plan... really cheater app..😡😡",
+      "theme": "Withdrawals & Funds"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 4,
+      "title": "",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "Delete",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 1,
+      "title": "",
+      "text": "customer support system to low. my money not withdraw last 20 days but customer says tomorrow 10 am withdrawing funds. West money so cheap sarvice 10 times raised a ticket not solved my problem",
+      "theme": "Withdrawals & Funds"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "nice enjoy",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good 💯",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "goooooooood",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "ok",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "name Shyam munduiya the best to you in ahr",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "EXCELLENT",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "awesome",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good 👍",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "nice",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "Superb",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "Nice app for trading",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "nice aap ❤️❤️❤️",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "👌👌",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "Excellent",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "very good 👍",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 4,
+      "title": "",
+      "text": "Thanks for adding the account switch feature. But there is one more thing you should do this this account settings like chart, sorting for share should not reset when account is switched Dear Groww Tea, This is requested to you please ad an option in this app to switch account as of now every time I need to logout and again login this will reset all chart settings. so add a feature that just one click switch account and all settings remaining same for a user if he handle their family account.",
+      "theme": "Account & Security"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "very good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good app 👌",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 1,
+      "title": "",
+      "text": "money transfer is too low, takes too long irritate",
+      "theme": "Withdrawals & Funds"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "very good 👍",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "User friendly app. I like more. My favourite app. Thank you. Regards",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "10 $ off",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "very good experience with grow",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "mast",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 1,
+      "title": "",
+      "text": "brokrage rate is too High 😴",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "wow",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 1,
+      "title": "",
+      "text": "too lagging problem have taking time for order pl place improvement neede",
+      "theme": "App Stability"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "okay",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "but broker charge is n More comparatively other",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "👍",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 1,
+      "title": "",
+      "text": "bad",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "ok",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 4,
+      "title": "",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 4,
+      "title": "",
+      "text": "A very good app for beginners to have a deep insight of trading on stocks, mutual funds, IPO etc.",
+      "theme": "Withdrawals & Funds"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 4,
+      "title": "",
+      "text": "good 👍",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "very good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "Good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good service",
+      "theme": "Customer Support"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "ખુબ સુંદર",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "👍 nice",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "no thanks🙏",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "😄",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "super",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 4,
+      "title": "",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "Excellent for beginners",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "very fast aap",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "If the name has already been updated on the PAN card, the updated details should ideally be fetched and updated automatically in the system. Why do we have to fill out a separate form and submit documents again? This makes the process unnecessarily lengthy and inconvenient for the user.",
+      "theme": "Account & Security"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "excellent",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "very nice app",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "Good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 4,
+      "title": "",
+      "text": "not bad",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "🤟👑osm",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "Good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 4,
+      "title": "",
+      "text": "a good demate acount",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 1,
+      "title": "",
+      "text": "Bad service no useful",
+      "theme": "Customer Support"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 1,
+      "title": "",
+      "text": "Don't use this app fraud fellows app",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "very good and easy interface",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "profit",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "Good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "Good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "very good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 1,
+      "title": "",
+      "text": "lots of bugs. very slow in the mobile chart.",
+      "theme": "App Stability"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "trade exicution easy for beginners and app speed",
+      "theme": "Order Execution"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "all orvar best",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "very very good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "very good app",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "nice",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 1,
+      "title": "",
+      "text": "ये लोग brokrege charge कितना काट ना है वो तो बताएगै लेकिन, DP charge ,CDSL DP charge, exchange ट्रांजेक्शन चार्ज कितना कटना है, वो कभी नही बताया जायेगा ।",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 3,
+      "title": "",
+      "text": "This app is fantastic as we can buy shares, mutual funds and bonds all in one app. But there is no GMP in IPO section, Gold bonds and P2P investment schemes should also there.",
+      "theme": "Order Execution"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 1,
+      "title": "",
+      "text": "after update app is hanged, not working at all.",
+      "theme": "App Stability"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 4,
+      "title": "",
+      "text": "mast he",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "hasta la vista baby",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "super 👍👍👍❤️❤️🙏",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "very good 👍",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 4,
+      "title": "",
+      "text": "badhiya hai baba badhiya hai",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "nice 👍",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "realy good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "it is good pralfrom of the finance",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "very fine",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "awesome app till date",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "nice",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 1,
+      "title": "",
+      "text": "dont us app is custmuar service is use less my acount balance aotomatkly less",
+      "theme": "Withdrawals & Funds"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "yah Mujhe sikhane Mein Bada Achcha Laga Hai aur yah Badi kam ki chij hai abhi group ko load Karen aur share market Mein Kaise paise lagaen mutual fund aur bahut sari jankariyan Hain Iske andar market ke bare mein acchi Jankari Hai Ek Hi Jagah Paisa lagane ka option Mil Jata Hai aapko इधर-उधर Jana Nahin Padta aur sachmuch mein bahut surakshit hai aap Chahe to ise Play Store se kar sakte hain ki bahut se free hai ismein Koi risk Nahin Hai aur Har tarike ke liye jo hai paragraph dikhata hai jisse s",
+      "theme": "App Stability"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "nice platform",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good supporters app",
+      "theme": "Customer Support"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good job",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "nice 👍",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "💐🙏💐 🌺🌼🌷",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "very nice app",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 3,
+      "title": "",
+      "text": "best",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "i like",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "super 💯",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "best",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good 👍",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "A very simplified app, does not require a lot of procedures. All processes are very fluent.",
+      "theme": "Order Execution"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good app",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "West",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "nice app",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "plz add your app access through trading view.. like wise other brokers..",
+      "theme": "Account & Security"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 3,
+      "title": "",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "Expiry dates are not visible after update.",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "very good 😊",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 3,
+      "title": "",
+      "text": "Groww is a good trading and investment app for retail investors. The platform is simple and easy to use, and the brokerage charges are relatively low. It is especially helpful for beginners and small retail traders who want to keep their trading costs low. Overall, a user-friendly app with competitive charges.",
+      "theme": "Order Execution"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "💗",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "Good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 1,
+      "title": "",
+      "text": "very High charges",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good 👍",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 1,
+      "title": "",
+      "text": "Please give the option of scalping in commodity trading segment also.",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 1,
+      "title": "",
+      "text": "Transaction report total wrong fraud app I have stock is holding transaction is indraday 😔😔😔😔😔😔",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-16",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "excellent",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-15",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "nice",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-15",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "Good app for tranding",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-15",
+      "platform": "Play Store",
+      "rating": 4,
+      "title": "",
+      "text": "fine",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-15",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "upi Autopay లొ revoked notification వస్తె బాగుంటుంది",
+      "theme": "Withdrawals & Funds"
+    },
+    {
+      "date": "2026-09-15",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "Good for all",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-15",
+      "platform": "Play Store",
+      "rating": 2,
+      "title": "",
+      "text": "mandat issue many time status not updated",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-15",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "nice 👍",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-15",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "very good aap",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-15",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "bahut hi acha app lga investment ke liye",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-15",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "nice",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-15",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "excellent",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-15",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "very nice and",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-15",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "Nice experience with groww",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-15",
+      "platform": "Play Store",
+      "rating": 3,
+      "title": "",
+      "text": "I would rate you 5 star if you introduce a feature mentioning BE stocks like we get in Kite App. so that we can avoid the T2T stocks effectively I purchased the stock on Friday and Today I was getting 10k profit but the stock being T2T I was not able to sell it",
+      "theme": "Order Execution"
+    },
+    {
+      "date": "2026-09-15",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "Good groww inwistment",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-15",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "supar",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-15",
+      "platform": "Play Store",
+      "rating": 4,
+      "title": "",
+      "text": "nice",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-15",
+      "platform": "Play Store",
+      "rating": 1,
+      "title": "",
+      "text": "not good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-15",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "The best Treding app",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-15",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-15",
+      "platform": "Play Store",
+      "rating": 3,
+      "title": "",
+      "text": "did you like this offer",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-15",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "be happy 😊",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-15",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good groww",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-15",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-15",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-15",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good must use",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-15",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "average",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-15",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good platform",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-15",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "best",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-15",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-15",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "nice 👍",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-15",
+      "platform": "Play Store",
+      "rating": 4,
+      "title": "",
+      "text": "গো অ্যাপ টা খুব সুন্দর ভাবে কাজ করে।",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-15",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "smooth working",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-15",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "oh my god very good experience by its app it is best for beginners I am first don't know about trading and other apps of trade but this app has been very much oh my God this is very useful !",
+      "theme": "Order Execution"
+    },
+    {
+      "date": "2026-09-15",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good application good work",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-15",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "Groww with you hameisa.",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-15",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "ok",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-15",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good and analysed data making",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-15",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "very good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-15",
+      "platform": "Play Store",
+      "rating": 3,
+      "title": "",
+      "text": "easy interface but sometimes it deducted amount without ur information if u r doing trading.😡",
+      "theme": "Withdrawals & Funds"
+    },
+    {
+      "date": "2026-09-15",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "very good",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-15",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "ok",
+      "theme": "Unclassified"
+    },
+    {
+      "date": "2026-09-15",
+      "platform": "Play Store",
+      "rating": 5,
+      "title": "",
+      "text": "good",
+      "theme": "Unclassified"
+    }
+  ],
+  "checks": {
+    "columns": [
+      "rating",
+      "title",
+      "text",
+      "date",
+      "platform"
+    ],
+    "ratings_1_5": true,
+    "pii_hits": 0,
+    "theme_count_within_legend": true,
+    "note_word_limit": true
+  }
+}

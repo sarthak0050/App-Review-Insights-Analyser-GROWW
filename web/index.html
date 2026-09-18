@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Weekly Review Pulse — GROWW</title>
+  <style>
+    html, body { background: #0a0e1a; color: #e6e9f2; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+  </style>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="boot" class="boot" role="status" aria-live="polite">
+    <span class="boot-spin"></span> Loading weekly pulse&hellip;
+  </div>
+
+  <header class="hero">
+    <div class="brand">
+      <span class="logo">P</span>
+      <div>
+        <h1>Weekly Review Pulse</h1>
+        <p class="sub">GROWW &middot; App Store &amp; Play Store review intelligence</p>
+      </div>
+    </div>
+    <div class="meta" id="meta">loading&hellip;</div>
+    <div class="stages" id="stages"></div>
+  </header>
+
+  <main>
+    <section id="stats" class="kpis"></section>
+
+    <section class="panel theme-breakdown">
+      <h2>Theme breakdown</h2>
+      <div id="themeCards" class="theme-grid"></div>
+      <div id="coverageStrip" class="coverage"></div>
+    </section>
+
+    <section class="panel split">
+      <div>
+        <h2>Rating distribution</h2>
+        <div id="ratingChart" class="rating-chart"></div>
+      </div>
+      <div>
+        <h2>Sources</h2>
+        <div id="sourceChart" class="source-chart"></div>
+      </div>
+    </section>
+
+    <section id="noteSection" class="panel note-panel">
+      <div class="panel-title">
+        <h2>Weekly note</h2>
+        <span id="noteBadge" class="badge"></span>
+      </div>
+      <div class="actions-row">
+        <button id="btnNote">Generate weekly note</button>
+        <span id="noteStatus" class="hint"></span>
+      </div>
+      <div id="noteText" class="note-doc"></div>
+      <p id="noteLimitation" class="hint"></p>
+    </section>
+
+    <section id="emailSection" class="panel">
+      <div class="panel-title">
+        <h2>Email draft</h2>
+        <span id="emailStatus" class="hint"></span>
+      </div>
+      <div class="actions-row">
+        <input id="recipient" type="email" placeholder="draft recipient email" />
+        <button id="btnEmail">Generate email draft</button>
+        <button id="btnCopy" class="ghost">Copy body</button>
+        <button id="btnEml" class="ghost">Download .eml</button>
+        <button id="btnMailto" class="ghost">Open in mail app</button>
+        <button id="btnSend" class="ghost send">Send email</button>
+      </div>
+      <div id="emailPlaceholder" class="hint email-placeholder">No email generated yet — click <b>Generate email draft</b>.</div>
+      <div id="emailPreview" class="email-preview">
+        <div id="emailHeader" class="email-header"></div>
+        <div id="emailBody" class="note-doc email-doc"></div>
+      </div>
+      <p class="hint">True one-click Gmail draft lives in Apps Script (<code>GmailApp.createDraft</code>, menu Pulse &rarr; 6).</p>
+    </section>
+
+    <section class="panel">
+      <div class="panel-title">
+        <h2>Reviews</h2>
+        <div class="filters">
+          <select id="filterPlatform"><option value="">All platforms</option></select>
+          <select id="filterTheme"><option value="">All themes</option></select>
+          <select id="filterRating"><option value="">All ratings</option></select>
+          <input id="filterSearch" type="search" placeholder="search review text…" />
+        </div>
+      </div>
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr><th>Rating</th><th>Platform</th><th>Date</th><th>Theme</th><th>Review</th></tr>
+          </thead>
+          <tbody id="reviewRows"></tbody>
+        </table>
+      </div>
+      <p id="rowCount" class="hint"></p>
+    </section>
+  </main>
+
+  <footer>
+    <p class="hint">Data: public App Store RSS + Google Play public endpoints (both expose only ~1–3 weeks for this app's volume — we retain and disclose what they return) &middot; PII scrubbed at import &middot; quotes verified verbatim &middot; priority = count × (6 − avg rating)</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,21 @@
+GROWW Weekly Review Pulse - verification report
+generated: 2026-09-19T00:24:28.723509
+input: data/reviews_all.csv
+------------------------------------------------------------
+[             PASS] data loaded: 887 reviews; columns=['rating', 'title', 'text', 'date', 'platform']
+[             PASS] ratings 1-5: all ratings in range
+[             PASS] PII sweep: no PII regex hits in title/text
+[             PASS] theme legend: 6 themes used (Unclassified is the explicit no-match bucket, not a 6th theme); rule-only classification here, Apps Script adds the LLM fallback
+[             PASS] top-3 priority: Order Execution (count 44, avg 3.73, score 100.0); Withdrawals & Funds (count 39, avg 3.64, score 92.0); Customer Support (count 42, avg 3.83, score 91.0)
+[             PASS] quote exact-substring: Order Execution: 'I have the proof my trigger price was 195.40 but market didn'
+[             PASS] quote exact-substring: Withdrawals & Funds: 'This app is very slow in withdrawal and also many charges ar'
+[             PASS] quote exact-substring: Customer Support: 'This company has the most pathetic customer service where yo'
+[             PASS] quote coverage: all 3 top-theme quotes verified verbatim
+[             PASS] source coverage: {'App Store': 487, 'Play Store': 400}
+[             PASS] note word count: 231 words <= 250 (counted from rendered note text)
+[             PASS] note PII sweep: no PII regex hits in note ('note from dashboard_data.json')
+[             PASS] note contains quotes: all 3 top-3 quotes verbatim in note AND in a real review
+[             PASS] note disclosure: coverage disclosure line present in note
+[             PASS] note punctuation: no double periods in note
+------------------------------------------------------------
+summary: 15 pass, 0 fail, 0 needs Apps Script run
