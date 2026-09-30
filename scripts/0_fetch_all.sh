@@ -4,6 +4,7 @@
 # Then click "Generate weekly note" and "Generate email draft" in the web UI.
 set -euo pipefail
 cd "$(dirname "$0")/.."
+mkdir -p data output
 
 echo "== 1/5 Import: App Store RSS (public cache; ~2-week reach, we keep all of it) =="
 python3 scripts/1_fetch_appstore.py --pages 10 --country in --out data/reviews_appstore.csv

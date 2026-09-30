@@ -1,0 +1,56 @@
+name: Refresh Weekly Pulse
+
+# Keeps the GROWW Weekly Review Pulse current by re-running the public-feeds
+# pipeline on a schedule.
+# - Runs weekly (Mon 06:00 UTC) and on demand via "Run workflow".
+# - Re-imports App Store + Play Store reviews, regrouped into the fixed 5-theme
+#   legend, and regenerates web/dashboard_data.json + output/ artifacts.
+# - Commits the refreshed dashboard + artifacts back to main when they changed.
+#
+# The pipeline runs keyless: without GEMINI_API_KEY the note/email use the
+# deterministic fallback (identical behaviour to the hosted app).
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: weekly-pulse-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install google-play-scraper certifi requests
+
+      - name: Run scheduler (refresh when stale)
+        run: python3 scripts/scheduler.py --mode once --max-age-days 8
+
+      - name: Commit refreshed pulse if changed
+        run: |
+          if ! git diff --quiet; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add --all
+            git commit -m "chore(pulse): refresh weekly review data on $(date -u +%Y-%m-%d)"
+            git push origin main
+            echo "Pulse refreshed and committed."
+          else
+            echo "No source changes detected; pulse is up to date."
+          fi

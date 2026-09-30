@@ -1,13 +1,13 @@
 # GROWW — Weekly Review Pulse
 
-Generated: 2026-09-18T23:46:36  ·  Source: App Store 487 + Play Store 400  ·  Total 887 reviews  ·  Window: 2026-08-31 → 2026-09-17
+Generated: 2026-09-30T16:16:57  ·  Source: App Store 391 + Play Store 400  ·  Total 791 reviews  ·  Window: 2026-09-01 → 2026-09-29
 
 WEEKLY REVIEW PULSE - GROWW
-This week's reviews reveal shared user frustration across critical financial transactions, as technical failures in order execution and delayed fund withdrawals are compounded by unresponsive customer support channels.
-1. Order Execution (44 reviews, ~3.73/5): "I have the proof my trigger price was 195.40 but market didnt go down it went up but my sl order triggered at 192 and gave me loss" - Users report unexpected stop-loss triggers causing losses despite favorable market movements, indicating potential slippage or pricing accuracy issues. Action: Investigate stop-loss execution logs to verify pricing accuracy and reduce slippage.
-2. Withdrawals & Funds (39 reviews, ~3.64/5): "This app is very slow in withdrawal and also many charges are applied" - Traders experience frustrating delays during withdrawals alongside unexpected fee deductions, eroding trust in platform fund management. Action: Streamline withdrawal processing times and publish a transparent, upfront fee schedule.
-3. Customer Support (42 reviews, ~3.83/5): "This company has the most pathetic customer service where you have to wait for minimum 2 days to get a reply and post waiting also the agents reply’s comes" - Support response times exceeding two days leave clients stranded during critical trading moments with inadequate assistance. Action: Implement a priority ticketing system to resolve urgent trade issues within hours.
-Signal basis: themes drawn from 152 of 887 reviews; 735 no-signal reviews (largely one-line praise) sit outside the legend.
+Preview: Customer Support, Order Execution, Withdrawals & Funds dominate the week's signal; ranked themes below.
+1. Customer Support (39 reviews, ~3.41/5): "Just the extended version of mobile version . No work has been put for the iPad version very disappointed" - lowest-rated review in this theme. Action: prioritise investigation into Customer Support this week.
+2. Order Execution (39 reviews, ~3.49/5): "I am facing serious issues while trading on the Groww platform. Whenever I place an order at the price currently displayed on the app, or set a specific price" - lowest-rated review in this theme. Action: prioritise investigation into Order Execution this week.
+3. Withdrawals & Funds (36 reviews, ~3.5/5): "Withdrawal payment me ye log gafla karte hai" - lowest-rated review in this theme. Action: prioritise investigation into Withdrawals & Funds this week.
+Signal basis: themes drawn from 131 of 791 reviews; 660 no-signal reviews (largely one-line praise) sit outside the legend.
 
 ---
 
