@@ -363,3 +363,29 @@ PII is scrubbed at import and before any LLM call.
 Built by [Sarthak Singh](https://github.com/sarthak0050) · NextLeap PM
 Fellowship (LIP-5) · *"A weekly pulse tool is only useful if you can trust what
 it's showing you."*
+
+## Changelog Automation
+
+`CHANGELOG.md` is regenerated weekly from the commit log by
+`.github/workflows/weekly-changelog.yml` and committed **as the repo owner**
+so this project's maintenance is credited to you rather than to
+`github-actions[bot]`.
+
+| | |
+|---|---|
+| Schedule | Wednesdays, 07:13 UTC |
+| Source of truth | Commit messages on the default branch |
+| Noise control | Only commits when the file actually changed |
+| Credentials | Needs the `PAT_TOKEN` secret, otherwise it regenerates but does not commit |
+
+**One-time setup**
+
+1. Create a [fine-grained token](https://github.com/settings/personal-access-tokens/new)
+   scoped to this repository only, with **Contents: Read and write**.
+2. Add it as a repository secret named `PAT_TOKEN`:
+   **Settings → Secrets and variables → Actions → New repository secret**.
+
+Until that secret exists the job still regenerates `CHANGELOG.md` and prints
+the diff, it just skips the commit, so no bot-authored noise lands in the
+history.
+
