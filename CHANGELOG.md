@@ -5,6 +5,8 @@
 
 ## Full history (no tag, fewer than 30 commits)
 
+- 2026-10-02 `b5b063a` ci: attribute automated commits to the repo owner when PAT_TOKEN is set
+- 2026-10-02 `ae7903c` docs: add weekly changelog automation and initial CHANGELOG.md
 - 2026-10-02 `8a9d6d7` ci: stagger weekly scheduler to avoid top-of-hour congestion
 - 2026-09-30 `c9571b6` Add weekly pulse scheduler, GH Actions cron, elaborate README
 
