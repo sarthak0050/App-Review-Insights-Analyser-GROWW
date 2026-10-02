@@ -264,7 +264,7 @@ pipeline stops-and-reports (exit 3) instead of fabricating data.
 
 ### Automated weekly refresh (GitHub Actions)
 
-`.github/workflows/refresh-reviews.yml` runs **every Monday 06:00 UTC** (and on
+`.github/workflows/refresh-reviews.yml` runs **every Monday 06:07 UTC** (and on
 manual "Run workflow"): it installs the fetch deps, runs
 `python3 scripts/scheduler.py --mode once --max-age-days 8`, and commits the
 regenerated `web/dashboard_data.json` + `output/` artifacts back to `main`

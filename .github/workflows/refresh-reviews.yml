@@ -12,7 +12,7 @@ name: Refresh Weekly Pulse
 
 on:
   schedule:
-    - cron: "0 6 * * 1"
+    - cron: '7 6 * * 1' # Mondays, 06:07 UTC
   workflow_dispatch:
 
 permissions:
