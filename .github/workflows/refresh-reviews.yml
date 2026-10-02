@@ -43,10 +43,21 @@ jobs:
         run: python3 scripts/scheduler.py --mode once --max-age-days 8
 
       - name: Commit refreshed pulse if changed
+        env:
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
           if ! git diff --quiet; then
-            git config user.name "github-actions[bot]"
-            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            # Prefer a personal access token so automated commits are attributed to the
+            # repo owner instead of github-actions[bot]. Falls back to the built-in
+            # token when PAT_TOKEN is not configured.
+            if [ -n "${PAT_TOKEN:-}" ]; then
+              git config user.name "sarthak singh"
+              git config user.email "sarthaksingh@gmail.com"
+              git remote set-url origin "https://x-access-token:$PAT_TOKEN@github.com/$GITHUB_REPOSITORY.git"
+            else
+              git config user.name "github-actions[bot]"
+              git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            fi
             git add --all
             git commit -m "chore(pulse): refresh weekly review data on $(date -u +%Y-%m-%d)"
             git push origin main
