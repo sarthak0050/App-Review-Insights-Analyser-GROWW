@@ -1,18 +1,18 @@
 GROWW Weekly Review Pulse - verification report
-generated: 2026-09-30T16:16:58.005820
+generated: 2026-10-12T15:12:39.027780
 input: data/reviews_all.csv
 ------------------------------------------------------------
-[             PASS] data loaded: 791 reviews; columns=['rating', 'title', 'text', 'date', 'platform']
+[             PASS] data loaded: 889 reviews; columns=['rating', 'title', 'text', 'date', 'platform']
 [             PASS] ratings 1-5: all ratings in range
 [             PASS] PII sweep: no PII regex hits in title/text
 [             PASS] theme legend: 6 themes used (Unclassified is the explicit no-match bucket, not a 6th theme); rule-only classification here, Apps Script adds the LLM fallback
-[             PASS] top-3 priority: Customer Support (count 39, avg 3.41, score 101.0); Order Execution (count 39, avg 3.49, score 98.0); Withdrawals & Funds (count 36, avg 3.5, score 90.0)
-[             PASS] quote exact-substring: Customer Support: 'Just the extended version of mobile version . No work has be'
-[             PASS] quote exact-substring: Order Execution: 'I am facing serious issues while trading on the Groww platfo'
-[             PASS] quote exact-substring: Withdrawals & Funds: 'Withdrawal payment me ye log gafla karte hai'
+[             PASS] top-3 priority: Customer Support (count 55, avg 3.4, score 143.0); Order Execution (count 44, avg 3.25, score 121.0); Withdrawals & Funds (count 45, avg 3.44, score 115.0)
+[             PASS] quote exact-substring: Customer Support: 'Groww looks impressive until you actually need help. The mom'
+[             PASS] quote exact-substring: Order Execution: 'In groww it’s shows total nifty market gainers and losers bu'
+[             PASS] quote exact-substring: Withdrawals & Funds: 'I havent got my money from the mutual funds i sold 3 months '
 [             PASS] quote coverage: all 3 top-theme quotes verified verbatim
-[             PASS] source coverage: {'App Store': 391, 'Play Store': 400}
-[             PASS] note word count: 157 words <= 250 (counted from rendered note text)
+[             PASS] source coverage: {'App Store': 489, 'Play Store': 400}
+[             PASS] note word count: 177 words <= 250 (counted from rendered note text)
 [             PASS] note PII sweep: no PII regex hits in note ('note from dashboard_data.json')
 [             PASS] note contains quotes: all 3 top-3 quotes verbatim in note AND in a real review
 [             PASS] note disclosure: coverage disclosure line present in note
