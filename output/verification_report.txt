@@ -1,18 +1,18 @@
 GROWW Weekly Review Pulse - verification report
-generated: 2026-10-12T15:12:39.027780
+generated: 2026-10-26T12:48:59.305366
 input: data/reviews_all.csv
 ------------------------------------------------------------
-[             PASS] data loaded: 889 reviews; columns=['rating', 'title', 'text', 'date', 'platform']
+[             PASS] data loaded: 891 reviews; columns=['rating', 'title', 'text', 'date', 'platform']
 [             PASS] ratings 1-5: all ratings in range
 [             PASS] PII sweep: no PII regex hits in title/text
 [             PASS] theme legend: 6 themes used (Unclassified is the explicit no-match bucket, not a 6th theme); rule-only classification here, Apps Script adds the LLM fallback
-[             PASS] top-3 priority: Customer Support (count 55, avg 3.4, score 143.0); Order Execution (count 44, avg 3.25, score 121.0); Withdrawals & Funds (count 45, avg 3.44, score 115.0)
-[             PASS] quote exact-substring: Customer Support: 'Groww looks impressive until you actually need help. The mom'
-[             PASS] quote exact-substring: Order Execution: 'In groww it’s shows total nifty market gainers and losers bu'
-[             PASS] quote exact-substring: Withdrawals & Funds: 'I havent got my money from the mutual funds i sold 3 months '
+[             PASS] top-3 priority: Customer Support (count 60, avg 3.2, score 168.0); Withdrawals & Funds (count 47, avg 3.06, score 138.0); Order Execution (count 45, avg 3.04, score 133.0)
+[             PASS] quote exact-substring: Customer Support: 'Will be adding details later, but the TLDR is that even thou'
+[             PASS] quote exact-substring: Withdrawals & Funds: 'I cant use the fund in balance it takes to long time than an'
+[             PASS] quote exact-substring: Order Execution: 'Always hang when its real Time to trade Always play with qty'
 [             PASS] quote coverage: all 3 top-theme quotes verified verbatim
-[             PASS] source coverage: {'App Store': 489, 'Play Store': 400}
-[             PASS] note word count: 177 words <= 250 (counted from rendered note text)
+[             PASS] source coverage: {'App Store': 491, 'Play Store': 400}
+[             PASS] note word count: 193 words <= 250 (counted from rendered note text)
 [             PASS] note PII sweep: no PII regex hits in note ('note from dashboard_data.json')
 [             PASS] note contains quotes: all 3 top-3 quotes verbatim in note AND in a real review
 [             PASS] note disclosure: coverage disclosure line present in note
