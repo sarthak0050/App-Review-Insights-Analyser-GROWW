@@ -1,18 +1,18 @@
 GROWW Weekly Review Pulse - verification report
-generated: 2026-11-09T16:01:57.729184
+generated: 2026-11-23T17:56:25.818640
 input: data/reviews_all.csv
 ------------------------------------------------------------
 [             PASS] data loaded: 894 reviews; columns=['rating', 'title', 'text', 'date', 'platform']
 [             PASS] ratings 1-5: all ratings in range
 [             PASS] PII sweep: no PII regex hits in title/text
 [             PASS] theme legend: 6 themes used (Unclassified is the explicit no-match bucket, not a 6th theme); rule-only classification here, Apps Script adds the LLM fallback
-[             PASS] top-3 priority: Customer Support (count 65, avg 2.94, score 199.0); Withdrawals & Funds (count 52, avg 3.19, score 146.0); Order Execution (count 43, avg 2.88, score 134.0)
-[             PASS] quote exact-substring: Customer Support: 'I have added 50$ on 27th October today is 3rd November More '
-[             PASS] quote exact-substring: Withdrawals & Funds: 'It’s been more than 4days still my usd amount is not deposit'
-[             PASS] quote exact-substring: Order Execution: 'Tgere are slot of bugs some time at crucisl times index got '
+[             PASS] top-3 priority: Customer Support (count 56, avg 2.77, score 181.0); Withdrawals & Funds (count 57, avg 2.84, score 180.0); Order Execution (count 49, avg 2.76, score 159.0)
+[             PASS] quote exact-substring: Customer Support: 'The App maybe good but the customer support is the worst. Ju'
+[             PASS] quote exact-substring: Withdrawals & Funds: 'Pathetic experience, Investing in US stocks through Groww, T'
+[             PASS] quote exact-substring: Order Execution: 'Line that make you perfect broker is : Groww starts Cash/Mar'
 [             PASS] quote coverage: all 3 top-theme quotes verified verbatim
 [             PASS] source coverage: {'App Store': 494, 'Play Store': 400}
-[             PASS] note word count: 183 words <= 250 (counted from rendered note text)
+[             PASS] note word count: 177 words <= 250 (counted from rendered note text)
 [             PASS] note PII sweep: no PII regex hits in note ('note from dashboard_data.json')
 [             PASS] note contains quotes: all 3 top-3 quotes verbatim in note AND in a real review
 [             PASS] note disclosure: coverage disclosure line present in note
